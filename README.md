@@ -152,7 +152,7 @@ SET qtat_llits = (SELECT SUM(qtat_llits)
 * ## **codi hospital** amb el nom de la columna **```Codi```**,
 * ## **codi sala**,
 * ## **codi de treballador** i
-* ## **Nom i cognom**
+* ## **Nom i cognom** (cal que aquests dos camps apareguin ***concatenats*** en una sola columna)
 
 ## que **NO** siguin del **torn de nit**.
 
