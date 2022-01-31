@@ -138,7 +138,7 @@ SET qtat_llits = (SELECT SUM(qtat_llits)
 
 ### Sobre la base de dades [**```empresa```**](./empresa_20220131.sql).
 
-## Cal que feu una consulta que mostri, **tots** els productes (**codi** i **descripció**) que contenen la paraula **tennis** en la descripció.
+## Cal que feu una consulta que mostri, **tots** els productes (**codi** i **descripció**) que contenen la paraula **tenis** en la descripció.
 
 <br>
 <hr>
