@@ -203,7 +203,7 @@ SET qtat_llits = (SELECT SUM(qtat_llits)
 
 * ``` -- Comanda resultat de l'activitat 9```
 
-* ``` -- Sotrida de l'execució de l'activitat 9```
+* ``` -- Sortida de l'execució de l'activitat 9```
 
  
  
